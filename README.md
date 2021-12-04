@@ -25,9 +25,9 @@
        style="height : auto; margin-left : 10px; margin-right : 10px;" />
 
 ## :film_projector: Project
-- ⚖️법대로합시다 : 생활법령정보 제공과 변호사 중개 및 무료화상법률자문 서비스](https://github.com/getCurrentThread/DoTheLaw)
-- 😄짤톡 : 사용자의 사진과 동영상을 활용하여 재미있는 결과물을 만들어주는 AI 서비스](https://github.com/getCurrentThread/ZzalTalk)
-- 🖋️일름 : 인공지능을 활용한 교육 목적의 화상 플랫폼](https://github.com/getCurrentThread/Illeum)
+- ⚖️[법대로합시다 : 생활법령정보 제공과 변호사 중개 및 무료화상법률자문 서비스](https://github.com/getCurrentThread/DoTheLaw)
+- 😄[짤톡 : 사용자의 사진과 동영상을 활용하여 재미있는 결과물을 만들어주는 AI 서비스](https://github.com/getCurrentThread/ZzalTalk)
+- 🖋️[일름 : 인공지능을 활용한 교육 목적의 화상 플랫폼](https://github.com/getCurrentThread/Illeum)
 
 ## :calendar: Experience
 - 컴퓨터공학과 졸업 4.36/4.5
