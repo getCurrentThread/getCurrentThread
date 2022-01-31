@@ -26,24 +26,26 @@
 
 ## :film_projector: Project
 - 👨‍🎓[백준허브 : 알고리즘 풀이 현황을 Git에 자동으로 올려주는 크롬 확장 프로그램](https://github.com/BaekjoonHub/BaekjoonHub)
-- ⚖️[법대로합시다 : 생활법령정보 제공과 변호사 중개 및 무료화상법률자문 서비스](https://github.com/getCurrentThread/DoTheLaw)
-- 😄[짤톡 : 사용자의 사진과 동영상을 활용하여 재미있는 결과물을 만들어주는 AI 서비스](https://github.com/getCurrentThread/ZzalTalk)
 - 🖋️[일름 : 인공지능을 활용한 교육 목적의 화상 플랫폼](https://github.com/getCurrentThread/Illeum)
+- 😄[짤톡 : 사용자의 사진과 동영상을 활용하여 재미있는 결과물을 만들어주는 AI 서비스](https://github.com/getCurrentThread/ZzalTalk)
+- ⚖️[법대로합시다 : 생활법령정보 제공과 변호사 중개 및 무료화상법률자문 서비스](https://github.com/getCurrentThread/DoTheLaw)
 
 ## :calendar: Experience
-- 컴퓨터공학과 졸업 4.36/4.5
-- 삼성 청년 SW 아카데미 4기 수료(2020.07.07 ~ 2021.06.09)
-- 삼성 청년 SW 아카데미 5기 실습 코치(2021.07 ~ 2021.10)
 - 네이버클라우드 클라우드 시스템 엔지니어 인턴(2021.10.20 ~ 2021.11.26)
+- 삼성 청년 SW 아카데미 5기 실습 코치(2021.07 ~ 2021.10)
+- 삼성 청년 SW 아카데미 4기 수료(2020.07.07 ~ 2021.06.09)
+- 컴퓨터공학과 졸업 4.36/4.5
+
 
 ## :trophy: Awards and Honors
-- 2019 한국 디지털콘텐츠학회 한국정보기술학회 하계공동학술대회 동상 2019.06.14
-- 2019 기상기후산업 창업경연대회 본선 진출 기상산업기술지원상 2019.08.14
-- 2020 삼성 청년 SW 아카데미 성적우수상 2020.11.27
-- 2021 삼성 청년 SW 아카데미 공통 프로젝트 우수상 2020.02.19
-- 2021 삼성 청년 SW 아카데미 특화 프로젝트 우수상 2021.04.09
-- 2021 삼성 청년 SW 아카데미 자율 프로젝트 최우수상 2021.06
 - 2021 삼성 청년 SW 아카데미 최우수 수료 삼성대표이사상 2021.06
+- 2021 삼성 청년 SW 아카데미 자율 프로젝트 최우수상 2021.06
+- 2021 삼성 청년 SW 아카데미 특화 프로젝트 우수상 2021.04.09
+- 2021 삼성 청년 SW 아카데미 공통 프로젝트 우수상 2020.02.19
+- 2020 삼성 청년 SW 아카데미 성적우수상 2020.11.27
+- 2019 기상기후산업 창업경연대회 본선 진출 기상산업기술지원상 2019.08.14
+- 2019 한국 디지털콘텐츠학회 한국정보기술학회 하계공동학술대회 동상 2019.06.14
+
 
 ## :green_book: GitHub Stats
 [![getCurrentThread's GitHub stats](https://github-readme-stats.vercel.app/api?username=getCurrentThread)](https://github.com/anuraghazra/github-readme-stats)
