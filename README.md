@@ -47,7 +47,7 @@
 
 ## :teddy_bear: TOY
 > 프로그램 인스톨러, 사무자동화, 매크로성 프로그램 등 오해의 소지가 있는 목록을 제외하였습니다.
-- 🥏[디스코드 봇 : 조기 대학 신입생 확인을 위한 합격 인증 봇](https://github.com/getCurrentThread/Discord-Freshman-Certification-BOT)
+- 🥏[신입 디스코드 봇 : 조기 대학 신입생 확인을 위한 합격 인증 봇](https://github.com/getCurrentThread/Discord-Freshman-Certification-BOT)
 - 🕵️[QR디텍터 : QR코드를 화면에서 발견하면 해당 URL을 카카오톡 메신저로 보내주는 디텍터](https://github.com/getCurrentThread/qrcode-detector-kakaotalk-sender)
 - 🐢[Jira 이슈 스크래퍼 : Jira 보고서를 생성하여 빠르게 지라 현황 파악을 할 수 있는 생성툴](https://github.com/getCurrentThread/jira-issue-scaper)
 - 🕸️[온라인 출석 체크 : 셀레니움을 사용한 파이썬 기반의 웹 크롤링 웹엑스 자동 출석체크 프로그램](https://github.com/getCurrentThread/webex-attendance-checker)
