@@ -52,6 +52,7 @@
 - 🐢[Jira 이슈 스크래퍼 : Jira 보고서를 생성하여 빠르게 지라 현황 파악을 할 수 있는 생성툴](https://github.com/getCurrentThread/jira-issue-scaper)
 - 🕸️[온라인 출석 체크 : 셀레니움을 사용한 파이썬 기반의 웹 크롤링 웹엑스 자동 출석체크 프로그램](https://github.com/getCurrentThread/webex-attendance-checker)
 - 🥬[Git 잔디 스크래퍼 : gitlab용 활동 확인을 위한 잔디 스크래퍼](https://github.com/getCurrentThread/git-jandi-scraper)
+- 🤖[온라인방송 번역 봇 : 파파고를 이용한 한국어와 영어를 포함한 13개 언어 자동 번역 트위치 채팅봇](https://github.com/getCurrentThread/twitch-translate-bot)
 
 ## :green_book: GitHub Stats
 [![getCurrentThread's GitHub stats](https://github-readme-stats.vercel.app/api?username=getCurrentThread)](https://github.com/anuraghazra/github-readme-stats)
