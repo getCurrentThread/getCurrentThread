@@ -36,7 +36,6 @@
 - 삼성 청년 SW 아카데미 4기 수료(2020.07.07 ~ 2021.06.09)
 - 컴퓨터공학과 졸업 4.36/4.5
 
-
 ## :trophy: Awards and Honors
 - 2021 삼성 청년 SW 아카데미 최우수 수료 삼성대표이사상 2021.06
 - 2021 삼성 청년 SW 아카데미 자율 프로젝트 최우수상 2021.06
@@ -46,6 +45,13 @@
 - 2019 기상기후산업 창업경연대회 본선 진출 기상산업기술지원상 2019.08.14
 - 2019 한국 디지털콘텐츠학회 한국정보기술학회 하계공동학술대회 동상 2019.06.14
 
+## :teddy_bear: TOY
+> 프로그램 인스톨러, 사무자동화, 매크로성 프로그램 등 오해의 소지가 있는 목록을 제외하였습니다.
+- 🥏[디스코드 봇 : 조기 대학 신입생 확인을 위한 합격 인증 봇](https://github.com/getCurrentThread/Discord-Freshman-Certification-BOT)
+- 🕵️[QR디텍터 : QR코드를 화면에서 발견하면 해당 URL을 카카오톡 메신저로 보내주는 디텍터](https://github.com/getCurrentThread/qrcode-detector-kakaotalk-sender)
+- 🐢[Jira 이슈 스크래퍼 : Jira 보고서를 생성하여 빠르게 지라 현황 파악을 할 수 있는 생성툴](https://github.com/getCurrentThread/jira-issue-scaper)
+- 🕸️[온라인 출석 체크 : 셀레니움을 사용한 파이썬 기반의 웹 크롤링 웹엑스 자동 출석체크 프로그램](https://github.com/getCurrentThread/webex-attendance-checker)
+- 🥬[Git 잔디 스크래퍼 : gitlab용 활동 확인을 위한 잔디 스크래퍼](https://github.com/getCurrentThread/git-jandi-scraper)
 
 ## :green_book: GitHub Stats
 [![getCurrentThread's GitHub stats](https://github-readme-stats.vercel.app/api?username=getCurrentThread)](https://github.com/anuraghazra/github-readme-stats)
