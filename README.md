@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=JinHyeok%20Hyeon&fontSize=75&animation=fadeIn)
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgetCurrentThread" style="display: none;" />
 소프트웨어를 직접 개발, 활용하는 것이 개발자의 묘미라고 생각합니다. ^^
 
 ## :star: Stack
