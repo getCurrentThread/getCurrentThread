@@ -68,5 +68,5 @@
 
 ## :writing_hand: Contact
 <a href='https://hyeon-jinhyeok.tistory.com'> <img src='https://user-images.githubusercontent.com/31976959/156873166-d24f6cfc-caa1-41cf-bf52-e7e1302b0dca.png' width='50px' height='50px' /></a>
-<a href='matilto:wak8835@gmail.com'><img src='https://user-images.githubusercontent.com/31976959/156873331-48985009-d7a2-406a-ba94-533c0f1fb4ce.png' width='50px' height='50px' /></a>
+<a href='mailto:wak8835@gmail.com'> <img src='https://user-images.githubusercontent.com/31976959/156873331-48985009-d7a2-406a-ba94-533c0f1fb4ce.png' width='50px' height='50px' /></a>
 
