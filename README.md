@@ -56,6 +56,7 @@
 - 🤖[온라인방송 번역 봇 : 파파고를 이용한 한국어와 영어를 포함한 13개 언어 자동 번역 트위치 채팅봇](https://github.com/getCurrentThread/twitch-translate-bot)
 - 📋[온라인방송 아카이브 : 온라인방송의 짧은 영상 보존을 위한 백엔드리스 아카이브 웹 시스템](https://github.com/getCurrentThread/twitch-clip-archive)
 - 🌱[로스트아크 사용금액 확인 : 게임 로스트아크에서 사용한 금액을 확인하는 프로그램](https://github.com/getCurrentThread/lostark-money-power-checker)
+- 🛒[GS25 매장 리스트 스크래퍼 : GS25 매장에 대한 상세 정보 리스트를 가져오는 스크립트](https://github.com/getCurrentThread/gs25-market-list-scaper)
 
 ## :green_book: GitHub Stats
 [![getCurrentThread's GitHub stats](https://github-readme-stats.vercel.app/api?username=getCurrentThread)](https://github.com/anuraghazra/github-readme-stats)
