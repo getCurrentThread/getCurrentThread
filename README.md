@@ -1,7 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=JinHyeok%20Hyeon&fontSize=75&animation=fadeIn)
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgetCurrentThread" style="display: none;" />
-소프트웨어를 직접 개발, 활용하는 것이 개발자의 묘미라고 생각합니다. ^^
+<p align='center'>소프트웨어를 직접 개발, 활용하는 것이 개발자의 묘미라고 생각합니다. ^^</p>
+
+## :writing_hand: Contact
+<a href="https://hyeon-jinhyeok.tistory.com" target="_blank">
+       <img src="https://img.shields.io/badge/Tistory-black.svg?style=flat-square&logo=Thingiverse&logoColor=white"/>
+</a>
+<a href="https://programmers.co.kr/pr/wak8835" target="_blank">
+       <img src="https://img.shields.io/badge/Portfolio-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</a>
+<a href="mailto:wak8835@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 ## :star: Stack
 <img src="https://img.shields.io/badge/Python-EE4C2C?style=flat-square&logo=Python&logoColor=white"
@@ -67,8 +78,3 @@
 
 ## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wak8835)](https://solved.ac/wak8835)
-
-## :writing_hand: Contact
-<a href='https://hyeon-jinhyeok.tistory.com'> <img src='https://user-images.githubusercontent.com/31976959/156873166-d24f6cfc-caa1-41cf-bf52-e7e1302b0dca.png' width='50px' height='50px' /></a>
-<a href='mailto:wak8835@gmail.com'> <img src='https://user-images.githubusercontent.com/31976959/156873331-48985009-d7a2-406a-ba94-533c0f1fb4ce.png' width='50px' height='50px' /></a>
-
