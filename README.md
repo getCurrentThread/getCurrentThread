@@ -69,6 +69,7 @@
 - 🌱[로스트아크 사용금액 확인 : 게임 로스트아크에서 사용한 금액을 확인하는 프로그램](https://github.com/getCurrentThread/lostark-money-power-checker)
 - 🛒[GS25 매장 리스트 스크래퍼 : GS25 매장에 대한 상세 정보 리스트를 가져오는 스크립트](https://github.com/getCurrentThread/gs25-market-list-scaper)
 - 🏪[네이버 카페 클립 익스텐션 : 네이버 카페에서 특정 북마크를 임베디드 비디오로 보여주는 익스텐션](https://github.com/getCurrentThread/Naver-Cafe-Twitch-Clip-Extension)
+- 🔄[네이버 카페 새로고침 : 네이버 카페에서 새로고침 시 잘못된 페이지로 이동하는 것을 방지하는 익스텐션](https://github.com/getCurrentThread/Naver-Cafe-Fix-Refresh-Extension)
 
 ## :green_book: GitHub Stats
 [![getCurrentThread's GitHub stats](https://github-readme-stats.vercel.app/api?username=getCurrentThread)](https://github.com/anuraghazra/github-readme-stats)
